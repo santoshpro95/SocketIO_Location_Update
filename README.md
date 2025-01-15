@@ -2,6 +2,7 @@
 
 This project build in Kotlin Language.
 It will send location coordinates on change location, to the server even app is terminated stage. 
+It use foreground service to keep alive app on background on terminated stage. 
 
 To start the server go to backend folder.
 -> node index.js
