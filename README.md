@@ -11,4 +11,3 @@ It will start the server on port 3002
 Please replace your the IP address in code.
 then run the project. 
 
-![img.png](img.png)
