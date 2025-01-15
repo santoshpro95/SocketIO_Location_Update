@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocketIO</string>
+    <string name="running_socket_all_the_time">Running Socket All the time</string>
+</resources>
