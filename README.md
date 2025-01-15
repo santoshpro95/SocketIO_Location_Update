@@ -12,6 +12,6 @@ It will start the server on port 3002
 Please replace your the IP address in code.
 then run the project. 
 
-![alt text]([http://url/to/img.png](https://github.com/santoshpro95/SocketIO_Location_Update/blob/main/log.png))
+![alt text]([https://github.com/santoshpro95/SocketIO_Location_Update/blob/main/log.png])
 
 
