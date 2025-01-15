@@ -11,3 +11,4 @@ It will start the server on port 3002
 Please replace your the IP address in code.
 then run the project. 
 
+https://github.com/santoshpro95/SocketIO_Location_Update/blob/main/log.png
